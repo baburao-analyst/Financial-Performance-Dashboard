@@ -1,9 +1,22 @@
+<div align="center">
+  
 # 📊 Financial Performance Dashboard
-### Executive Sales & Profit Analysis | Power BI + Python + Excel
 
-> **An end-to-end Data Analytics case study transforming raw financial data into decision-ready business insights.**
 
----
+### *An end-to-end Data Analytics case study transforming raw financial data into decision-ready business insights.*
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge&logo=microsoft&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MIT_License-blue?style=for-the-badge&logo=open-source-initiative&logoColor=white"/> 
+</p>
+
+</div>
+
+![Dashboard](Dashboard.png)
 
 ## 🚀 Project Overview
 
@@ -419,6 +432,7 @@ Original and cleaned dataset files.
 
 > **Good analysis answers a question. Great analysis helps someone make a decision.**
 
+<br> 
 <p align="center">
   <b>📊 Financial Performance Analysis</b><br>
   Python • Pandas • Excel • Power BI • DAX
